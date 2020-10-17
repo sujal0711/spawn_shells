@@ -1,0 +1,1 @@
+python2 -c 'import pty; pty.spawn("/bin/sh")'

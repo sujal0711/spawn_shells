@@ -1,0 +1,1 @@
+perl: exec "/bin/sh";
